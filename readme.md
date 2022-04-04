@@ -1,4 +1,31 @@
--## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
+## **full scale metaverse**
+# parts:-
+### 1. AR AND VR
+### 2. NFT AND BLOCKCHAIN
+-     
+-       
+## AR AND VR
+**TO start the program just do live server** *install live server*
+# libraries:-
+- [aframe](https://aframe.io/)
+
+- [aframe-animation-component](https://www.npmjs.com/package/aframe-animation-component)
+- [aframe-environment-component](https://github.com/supermedium/aframe-environment-component)
+- [aframe-event-set-component](https://www.npmjs.com/package/aframe-event-set-component)
+- [hardhat](https://hardhat.org/getting-started/)
+- [solidaty](https://docs.soliditylang.org/en/v0.8.13/)
+- [ethers.js](https://docs.ethers.io/v5/)
+## license credit
+#### *also check lisence.txt*
+[NADER DABIT](https://github.com/dabit3/polygon-ethereum-nextjs-marketplace)
+
+**special credit to nader dabit's web3 nft marketplace**
+-
+*the code was modified for this project under MIT lisence*
+---
+---
+
+## Full stack NFT marketplace built with Polygon, Solidity, IPFS, & Next.js
 
 ![Header](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfofv47dooojerkmfgr4.png)
 
